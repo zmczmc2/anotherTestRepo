@@ -8,7 +8,7 @@ if (hey == "sup sluts") {
   print("how rude")
 } else {
   
-  print("Good how are you?")
+  print("Good how are you, slut?")
 }
 
 
