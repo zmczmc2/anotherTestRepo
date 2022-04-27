@@ -11,5 +11,5 @@ d <- 1
 if (a < b){
   print(c + d)
 } else {
-  print("a is greater than or equal to b")
+  print("a is greater than or equal to b and a is not greater than c")
 }
