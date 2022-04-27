@@ -13,3 +13,8 @@ if (a < b){
 } else {
   print("a is greater than or equal to b")
 }
+
+if (a != d) {
+  
+  print("Thank god")
+}
