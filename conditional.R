@@ -18,3 +18,10 @@ if (a != d) {
   
   print("Thank god")
 }
+
+
+if (a > d) {
+  
+  print("a is greater than d")
+  
+}
